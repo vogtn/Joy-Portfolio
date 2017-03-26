@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -43,7 +43,7 @@ h4,
 h5,
 h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
 }
 .img-centered {
@@ -60,7 +60,7 @@ h6 {
   background-color: #fed136;
   border-color: #fed136;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -104,7 +104,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #fed136;
   border-color: #fed136;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
   border-radius: 3px;
   font-size: 18px;
@@ -167,7 +167,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: #fed136;
   border-color: #fed136;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: white;
   font-size: 12px;
 }
@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 400;
   letter-spacing: 1px;
   color: white;
@@ -250,7 +250,7 @@ header .intro-text .intro-lead-in {
 }
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
   font-size: 50px;
   line-height: 50px;
@@ -270,7 +270,7 @@ header .intro-text .intro-heading {
   }
   header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-weight: 700;
     font-size: 75px;
     line-height: 75px;
@@ -581,27 +581,27 @@ section#contact .form-control:focus {
 }
 section#contact ::-webkit-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
   color: #eeeeee;
 }
 section#contact :-moz-placeholder {
   /* Firefox 18- */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
   color: #eeeeee;
 }
 section#contact ::-moz-placeholder {
   /* Firefox 19+ */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
   color: #eeeeee;
 }
 section#contact :-ms-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700;
   color: #eeeeee;
 }
@@ -615,14 +615,14 @@ footer {
 footer span.copyright {
   line-height: 40px;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   text-transform: none;
 }
 footer ul.quicklinks {
   margin-bottom: 0;
   line-height: 40px;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: lowercase;
   text-transform: none;
 }
 ul.social-buttons {

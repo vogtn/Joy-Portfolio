@@ -230,7 +230,6 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   background-image: url('../img/header-bg.jpg');
-  opacity: 0.6;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;

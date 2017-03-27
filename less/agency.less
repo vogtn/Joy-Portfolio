@@ -84,27 +84,27 @@ h1, h2, h3, h4, h5, h6 {
     background-color: @gray-darker;
     border-color: transparent;
     .navbar-brand {
-        color: @theme-primary;
+        color: @theme-white;
         .script-font;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            color: darken(@theme-primary, 10%);
+            color: darken(@theme-purple, 10%);
         }
     }
     .navbar-collapse {
         border-color: fade(white, 2%);
     }
     .navbar-toggle {
-        background-color: @theme-primary;
-        border-color: @theme-primary;
+        background-color: @theme-purple;
+        border-color: @theme-purple;
         .heading-font;
         color: white;
         font-size: 12px;
         &:hover,
         &:focus {
-            background-color: @theme-primary;
+            background-color: @theme-purple;
         }
     }
     .nav {
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
                 color: white;
                 &:hover,
                 &:focus {
-                    color: @theme-primary;
+                    color: @theme-purple;
                     outline: none;
                 }
             }
@@ -125,12 +125,12 @@ h1, h2, h3, h4, h5, h6 {
     .navbar-nav>.active>a {
         border-radius: 0;
         color: white;
-        background-color: @theme-primary;
+        background-color: @theme-purple;
     }
     .navbar-nav>.active>a:hover,
     .navbar-nav>.active>a:focus {
         color: white;
-        background-color: darken(@theme-primary, 10%);
+        background-color: darken(@theme-purple, 10%);
     }
 }
 

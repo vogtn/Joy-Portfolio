@@ -2,7 +2,9 @@
 @import "mixins.less";
 
 // Global Components
-
+#portCnn{
+    max-width: 100px;
+}
 body {
     overflow-x: hidden;
     .body-font;
@@ -84,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: @gray-darker;
     border-color: transparent;
     .navbar-brand {
-        color: @theme-white;
+        color: @theme-purple;
         .script-font;
         &:hover,
         &:focus,
@@ -113,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
                 .heading-font;
                 font-weight: 400;
                 letter-spacing: 1px;
-                color: white;
+                color: @theme-purple;
                 &:hover,
                 &:focus {
                     color: @gray-base;
@@ -180,10 +182,10 @@ header {
     .intro-text {
         padding-top: 100px;
         padding-bottom: 50px;
-        color: rgb(80, 64, 153);
+        color: @theme-purple;
         .intro-lead-in {
             .serif-font;
-            color: rgb(80, 64, 153);
+            color: @theme-purple;
             font-style: italic;
             font-size: 22px;
             line-height: 22px;

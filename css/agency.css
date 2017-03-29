@@ -181,9 +181,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .nav li a {
   font-family: 'Lato', sans-serif;
   text-transform: lowercase;
-  font-weight: 400;
-  letter-spacing: 1px;
   color: #773A7F;
+  font-size: 1.5em;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
@@ -203,7 +202,7 @@ fieldset[disabled] .btn-xl.active {
 @media (min-width: 768px) {
   .navbar-custom {
     background-color: transparent;
-    padding: 25px 0;
+    padding: 20px 0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
     transition: padding 0.3s;

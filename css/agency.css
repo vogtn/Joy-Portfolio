@@ -6,6 +6,9 @@
 #portCnn {
   max-width: 100px;
 }
+.navbar-header {
+  padding-bottom: 10px;
+}
 body {
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;
@@ -184,8 +187,7 @@ fieldset[disabled] .btn-xl.active {
   color: #773A7F;
   font-size: 1.5em;
 }
-.navbar-custom .nav li a:hover,
-.navbar-custom .nav li a:focus {
+.navbar-custom .nav li a:hover {
   color: #000;
   outline: none;
 }

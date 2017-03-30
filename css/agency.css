@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #000000;
+  color: #155bb6;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -196,10 +196,10 @@ fieldset[disabled] .btn-xl.active {
   font-family: 'Lato', sans-serif;
   text-transform: lowercase;
   color: #773A7F;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 .navbar-custom .nav li a:hover {
-  color: #000;
+  color: #1a72e4;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {

@@ -222,7 +222,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #222222;
+    background-color: rgba(223, 223, 223, 0.94);
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {

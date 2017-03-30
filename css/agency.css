@@ -696,14 +696,23 @@ ul.social-buttons li a:active {
   margin-bottom: 15px;
   font-size: 3em;
 }
+.portfolio-modal .modal-content h3 {
+  margin-left: 10%;
+  margin-right: 5%;
+}
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
   font-family: 'Lato', sans-serif;
   font-style: italic;
   font-size: 16px;
+}
+.portfolio-modal .modal-content li {
+  margin-left: 10%;
 }
 .portfolio-modal .modal-content ul.list-inline {
   margin-bottom: 30px;
